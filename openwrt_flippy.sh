@@ -49,7 +49,7 @@ KERNEL_REPO_URL_VALUE="breakings/OpenWrt"
 KERNEL_TAGS=("stable" "rk3588")
 STABLE_KERNEL=("6.1.1" "5.15.1")
 RK3588_KERNEL=("5.10.110")
-KERNEL_AUTO_LATEST_VALUE="false"
+KERNEL_AUTO_LATEST_VALUE="true"
 
 # Set the working directory under /opt
 SELECT_PACKITPATH_VALUE="openwrt_packit"
